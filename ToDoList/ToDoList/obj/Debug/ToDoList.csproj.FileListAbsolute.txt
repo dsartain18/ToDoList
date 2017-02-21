@@ -1,0 +1,5 @@
+C:\Repository\Learning\AngularJS\ToDoList\ToDoList\bin\ToDoList.dll.config
+C:\Repository\Learning\AngularJS\ToDoList\ToDoList\bin\ToDoList.dll
+C:\Repository\Learning\AngularJS\ToDoList\ToDoList\bin\ToDoList.pdb
+C:\Repository\Learning\AngularJS\ToDoList\ToDoList\obj\Debug\ToDoList.dll
+C:\Repository\Learning\AngularJS\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
